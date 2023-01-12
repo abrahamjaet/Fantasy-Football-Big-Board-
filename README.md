@@ -11,4 +11,5 @@ HOW TO RUN:
 
 Updates: 
     1/10/23: V0 Release. Finally a very very rough draft of ranking QB's. No stats beside team is shown & does not save. 33 QBs. Using algorithm based on nCr and domination. 
+    1/11/23: Including more data in qbs, adding save and load files as well as binary files containing the information of each QB. BB will not run for now on the new data. Driver coming soon. 
 
